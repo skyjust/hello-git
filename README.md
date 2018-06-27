@@ -5,5 +5,6 @@
 我现在也有一些疑问：在github上git的暂存区的概念是否还存在。
 addtext
 f1 f3
-f2
+f2 f4
 f3
+f4
